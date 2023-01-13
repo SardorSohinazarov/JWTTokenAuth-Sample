@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cja5Gj/s+vHfvojowQhpoAok/GRF5KB5UukTj5XsLnI=",
+  "Source": "JWTTokenAuth",
+  "BasePath": "_content/JWTTokenAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
